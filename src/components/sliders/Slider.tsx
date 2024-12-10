@@ -1,0 +1,1 @@
+const Slider = () => <div></div>;

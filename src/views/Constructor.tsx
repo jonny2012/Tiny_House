@@ -1,0 +1,1 @@
+const Constructor = () => <div></div>;
