@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./App.module.scss";
 import React from "react";
 import styles from "./App.module.scss";
